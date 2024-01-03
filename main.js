@@ -67,3 +67,5 @@ window.addEventListener('resize', function() {
 })
 
 Inspector.Show(scene, {})
+
+console.log('test')
